@@ -1,2 +1,2 @@
 # openrepo
-Bonjour le monde.
+Bonjour le monde. Hello World.
